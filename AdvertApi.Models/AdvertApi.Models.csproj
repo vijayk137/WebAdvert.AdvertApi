@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Authors>vijay k</Authors>
+    <Company>None</Company>
+    <Product>Web Advert Microservices</Product>
+    <PackageProjectUrl>https://github.com/vijayk137/WebAdvert.AdvertApi</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/vijayk137/WebAdvert.AdvertApi</RepositoryUrl>
   </PropertyGroup>
 
 </Project>

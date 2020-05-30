@@ -32,7 +32,7 @@ namespace AdvertApi.Controllers
             catch (KeyNotFoundException exception)
             {
                 return new NotFoundResult();
-
+ 
             }
             catch (Exception ex)
             {
